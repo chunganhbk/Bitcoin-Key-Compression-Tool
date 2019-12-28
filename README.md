@@ -7,3 +7,9 @@ https://2coin.org/getRSZfromRawTX.html
 
 Bitcoin Key Compression Tool
 https://iancoleman.io/bitcoin-key-compression
+
+
+-----------------------------------------
+python2.7 !
+
+python RawTX_RSZ.py
